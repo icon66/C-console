@@ -1,0 +1,30 @@
+﻿  LOGO.cpp
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(17,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(49,39): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(50,39): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(86,39): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(87,39): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(167,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(168,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(169,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(170,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(171,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(172,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(181,56): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(181,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(181,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(181,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(182,56): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(182,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(182,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(182,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(184,56): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(184,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(184,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(184,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(195,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(199,74): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(199,55): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(199,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\25758\source\repos\ConsoleTest\LOGO.cpp(199,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  ConsoleTest.vcxproj -> C:\Users\25758\source\repos\ConsoleTest\Debug\ConsoleTest.exe
